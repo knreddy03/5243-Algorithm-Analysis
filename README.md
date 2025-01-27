@@ -1,6 +1,6 @@
 ## Narasimha Reddy Koduri
 
-#### Repo: 5243-Advanced-Algorithms
+#### Repo: 5243-Algorithm-Analysis
 
 #### Email: nkoduri0503@my.msutexas.edu
 

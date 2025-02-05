@@ -29,6 +29,7 @@ class Bst
         _print(subroot->right);
     }
 
+    // This will avoid inserting the duplicate values.
     bool _search(Node *subroot, int key)
     {
         if (!subroot)
@@ -56,6 +57,7 @@ class Bst
         }
     }
 
+    // This will help in finding the inorder successor.
     Node *findMin(Node *subroot)
     { // Helper function to find the inorder successor
         while (subroot && subroot->left)

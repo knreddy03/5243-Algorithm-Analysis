@@ -60,7 +60,7 @@ When implementing deletion in a **Binary Search Tree (BST)**, there are three ma
 
 
 
-This deletion implementation is also working efficiently with an empty tree and a single-node tree too.
+This deletion implementation is also working efficiently with an **empty tree** and a **single-node tree** too.
 
 
 

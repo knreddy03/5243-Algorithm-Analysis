@@ -86,9 +86,9 @@ TSP is used in:
 
 Imagine 4 cities: A, B, C, D  
 And the distances:
-  - A-B: 10, A-C: 15, A-D: 20  
-  - B-C: 35, B-D: 25  
-  - C-D: 30
+  - A-B: 3, A-C: 6, A-D: 8  
+  - B-C: 9, B-D: 4  
+  - C-D: 2
 
 Your task:  
 Find the shortest round-trip that starts and ends at A and visits each city once.
@@ -127,11 +127,11 @@ Dynamic Programming is like:
 
 ---
 
-## 🎥 Bonus: Video Explanation
+## 🎥 Video Explanation
 
 Watch my YouTube video explaining the TSP problem, brute-force and dynamic programming approach with examples.
 
-[![TSP YouTube](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![TSP YouTube Video]](https://youtu.be/UhUv07VEcH8)
 
 ---
 

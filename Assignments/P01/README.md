@@ -1,48 +1,5 @@
+
 # ✈️ Travelling Salesman Problem (TSP)
-
----
-
-## 📌 What is the Travelling Salesman Problem?
-
-The **Travelling Salesman Problem (TSP)** asks:
-
-> Given a list of cities and the distances between each pair, what is the **shortest possible route** that visits each city **exactly once** and returns to the starting point?
-
-It’s one of the most famous problems in computer science and **combinatorial optimization**.
-
----
-
-## 🧭 Why Do We Need It?
-
-TSP is used in:
-- **Logistics & Delivery**: Planning optimal delivery routes (e.g., Amazon, FedEx)
-- **Manufacturing**: Tool path optimization for drilling, cutting, or painting
-- **Circuit Design**: Minimizing the length of wire paths
-- **Robotics**: Efficient path planning
-- **Genomics**: DNA sequencing and genome assembly
-
----
-
-## 🧠 Approaches Explained
-
-### 1. **Brute Force**
-- Try all possible routes (permutations of cities)
-- Select the shortest one
-- **Time Complexity**: O(n!)  
-  *(Terribly slow for large `n`!)*
-
-### 2. **Dynamic Programming (Held-Karp)**
-- Use **memoization + bitmasking** to avoid recalculating
-- Much faster than brute-force for moderate `n`
-- **Time Complexity**: O(n² · 2ⁿ)
-
----
-
-## 🗺️ Example
-
-Imagine 4 cities: A, B, C, D  
-And the distances:
-# ✈️ Travelling Salesman Problem (TSP) – A Friendly Guide
 
 ---
 
